@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_chair"
+        android:title="Chair" />
+    <item
+        android:id="@+id/menu_pencil"
+        android:title="Pencil" />
+    <item
+        android:id="@+id/menu_book"
+        android:title="Book" />
+    <item
+        android:id="@+id/menu_table"
+        android:title="Table" />
+    <item
+        android:id="@+id/menu_girls"
+        android:title="Girls" />
+    <item
+        android:id="@+id/menu_boys"
+        android:title="Boys" />
+    <item
+        android:id="@+id/menu_paper"
+        android:title="Paper" />
+    <item
+        android:id="@+id/menu_office"
+        android:title="Office and Library" />
+    <item
+        android:id="@+id/menu_principal"
+        android:title="Principal" />
+</menu>
